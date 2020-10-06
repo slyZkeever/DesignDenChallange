@@ -3,7 +3,7 @@
 <p>
 Engine : Unreal Engine 4.25 <br>
 Build Version : 1.0 <br>
-<a href = "https://drive.google.com/file/d/1qZCvQs3rPkDlo7d81NcCFsMjzVIiwLJF/view?usp=sharing"> Download game </a> <br>
+<a href = "https://drive.google.com/uc?id=1qZCvQs3rPkDlo7d81NcCFsMjzVIiwLJF&export=download"> Download game </a> <br>
 </p>
 
 Music:
